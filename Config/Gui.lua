@@ -29,7 +29,7 @@ local ActionBars = function(self)
 
 	Window:CreateSection("Enable")
 	Window:CreateSwitch("ActionBars", "Enable", "Enable actionbar module")
-	Window:CreateSwitch("ActionBars", "MainBar", "Enable main bar")
+	Window:CreateSwitch("ActionBars", "ActionBar", "Enable action bar")
 	Window:CreateSwitch("ActionBars", "BottomLeftBar", "Enable bottom left bar")
 	Window:CreateSwitch("ActionBars", "BottomRightBar", "Enable bottom right bar")
 	Window:CreateSwitch("ActionBars", "RightBar", "Enable right bar #1")

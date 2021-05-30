@@ -29,6 +29,7 @@ C["General"] = {
 
 C["ActionBars"] = {
 	["Enable"] = true,
+	["ActionBar"] = true,
 	["BottomLeftBar"] = true,
 	["BottomRightBar"] = true,
 	["RightBar"] = false,
